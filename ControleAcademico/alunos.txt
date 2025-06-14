@@ -1,0 +1,2 @@
+nome, endereço, idade, matricula
+theus, rua1, 19, 1

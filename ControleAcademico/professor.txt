@@ -1,0 +1,2 @@
+nome, endereço, idade, matricula, cpf, atuacao
+Paulo, rua1, 25, 1, 102-91202, sistema da informacao
